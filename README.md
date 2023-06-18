@@ -19,6 +19,4 @@ Software Engineer, experience in developing web applications using React, Node J
 </p>
 <br/>
 
-### GitHub Stats
-[![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#=)
 
