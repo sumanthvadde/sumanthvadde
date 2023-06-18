@@ -1,11 +1,10 @@
 <a href="#!"><img src='images/header_01.png' alt="header"></img></a>
 <hr/>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yildizmy)&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yildizmy@gmail.com)&nbsp;&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yildizmurat)&nbsp;&nbsp;
-[![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/1604048?style=flat&logo=stackoverflow&color=orange&label=StackOverflow)](https://stackoverflow.com/users/1604048/murat-y%c4%b1ld%c4%b1z?tab=profile)&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&color=green&label=Profile+views)](#/)&nbsp;&nbsp;
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sumanthvadde)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vvadde@usc.edu)&nbsp;&nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumanthvadde)&nbsp;&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=sumanthvadde&style=flat&color=green&label=Profile+views)](#/)&nbsp;&nbsp;
 [![Stars](https://custom-icon-badges.herokuapp.com/github/stars/yildizmy?color=55960c&labelColor=488207&style=social&logo=star&logoColor=black&label=Stars)](https://github.com/yildizmy?tab=repositories&sort=stargazers)&nbsp;&nbsp;
 [![Followers](https://custom-icon-badges.herokuapp.com/github/followers/yildizmy?color=236ad3&labelColor=1155ba&style=social&logo=github&logoColor=black&label=Follow)](https://github.com/yildizmy?tab=followers)&nbsp;&nbsp;
 
@@ -17,7 +16,7 @@ Software Engineer, experience in developing web applications using React, Node J
 
 ### Technologies and Tools
 <p style="text-align:left">
-  <a href="#&"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,ts,react,go,python,html,css,postgres,mysql,mongo,git,github,docker,azure,aws,vscode,graphana,jenkins,kubernetes,linux,&perline=12" /></a>
+  <a href="#&"><img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,go,python,html,css,postgres,mysql,mongo,git,github,docker,azure,aws,vscode,jenkins,kubernetes,linux,&perline=12" /></a>
 </p>
 <br/>
 
